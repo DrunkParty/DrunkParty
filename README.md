@@ -6,5 +6,5 @@
   <a href="https://github.com/Solyrvv">Solyrvv
 </a>
 &nbsp;&nbsp;&nbsp;<!-- spacing -->⌗
-  <a href="https://awesomesitesolyra.straw.page">Strawpage</a>
+  <a href="https://Solyrvv.straw.page">Strawpage</a>
 </p>
